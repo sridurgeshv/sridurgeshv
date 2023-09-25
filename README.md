@@ -10,7 +10,7 @@
 <ul>
   <li>🔭 I’m currently working on the AWS Cloud Practitioner course.</li>
   <li>👯 I’m looking to collaborate on simple cloud-based and frontend projects.</li>
-  <li>📫 How to reach me: you can contact me at my email: sridurgeshv@gmail.com</li>
+  <li>📫 How to reach me: you can contact me at my email:  **sridurgeshv@gmail.com**</li>
   <li>😄 Pronouns: He/Him</li>
   <li>⚡ Fun fact: Passionate about what I do!</li>
 </ul>
