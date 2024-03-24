@@ -7,13 +7,11 @@
 <h3><a href="https://github.com/sridurgeshv" style="color: blue;">Frontend Developer | Cloud Architecture</a></h3>
 <p>I am an Information Technology alumni passionate about Cloud Computing and Web Development (frontend).</p>
 
-<ul>
-  <li>🔭 I’m currently working on the AWS Cloud Practitioner course.</li>
-  <li>👯 I’m looking to collaborate on simple cloud-based and frontend projects.</li>
-  <li>📫 How to reach me: **sridurgeshv@gmail.com**</li>
-  <li>😄 Pronouns: He/Him</li>
-  <li>⚡ Fun fact: I really love what I do!</li>
-</ul>
+- 🔭 I’m currently working on the AWS Cloud Practitioner course.
+- 👯 I’m looking to collaborate on simple cloud-based and frontend projects.
+- 📫 How to reach me: **sridurgeshv@gmail.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I really love what I do!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
