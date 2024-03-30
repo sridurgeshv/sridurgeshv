@@ -5,10 +5,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sridurgeshv" alt="sridurgeshv" /></a> </p>
 
 <h3><a href="https://github.com/sridurgeshv" style="color: blue;">Frontend Developer | Cloud Architecture</a></h3>
-<p>I am an Information Technology alumni passionate about Cloud Computing and Web Development (frontend).</p>
+<p>I am an Information Technology graduate with a passion for Cloud Computing and Frontend Web Development.</p>
 
-- 🔭 I’m currently working on the AWS Cloud Practitioner course.
-- 👯 I’m looking to collaborate on simple cloud-based and frontend projects.
+- 🔭 I am currently enrolled in the AWS Cloud Practitioner course.
+- 👯 I'm seeking collaborations on straightforward cloud-based and frontend projects.
 - 📫 How to reach me: **sridurgeshv@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really love what I do!
