@@ -4,6 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sridurgeshv" alt="sridurgeshv" /></a> </p>
 
+## 🚀 About Me
 <h3><a href="https://github.com/sridurgeshv" style="color: blue;">Frontend Developer | Cloud Enthusiast</a></h3>
 <p>I am an IT graduate with a keen interest in Cloud Computing and Frontend Web Development.</p>
 
