@@ -105,3 +105,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sridurgeshv&show_icons=true&locale=en" alt="sridurgeshv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridurgeshv&" alt="sridurgeshv" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sridurgeshv/sridurgeshv/output/snake.svg" alt="Snake animation" />
