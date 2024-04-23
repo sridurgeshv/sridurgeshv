@@ -12,10 +12,10 @@
 
 <img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
-<h3><a href="https://github.com/sridurgeshv" style="color: blue;">Frontend Developer | Cloud Enthusiast</a></h3>
+<h3><a href="https://github.com/sridurgeshv" style="color: blue;">Frontend Developer | Cloud Enthusiast (AWS Certified)</a></h3>
 <p>I am an IT graduate with a keen interest in Cloud Computing and Frontend Web Development.</p>
 
-- 🔭 I am currently enrolled in the AWS Cloud Practitioner course.
+- 🔭 I am currently enrolled for learning cloud.
 - 👯 I'm seeking collaborations on straightforward cloud-based and frontend projects.
 - 📫 How to reach me: **sridurgeshv@gmail.com**
 - 😄 Pronouns: He/Him
