@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
 <h3><a href="https://github.com/sridurgeshv" style="color: blue;">Frontend Developer | Cloud Enthusiast (AWS Certified)</a></h3>
 <p>I am an IT graduate with a keen interest in Cloud Computing and Frontend Web Development.</p>
