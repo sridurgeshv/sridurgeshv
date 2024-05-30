@@ -25,6 +25,7 @@
 <p align="left">
 <a href="https://codepen.io/durgeshv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="durgeshv" height="55" width="55" /></a>
 <a href="www.linkedin.com/in/baba-sri-durgesh-vedangi-19a404260" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="55" width="55" alt="linkedin logo"  />
+<a href="https://hashnode.com/@durgeshv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@durgeshv" height="55" width="55" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
