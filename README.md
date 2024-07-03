@@ -108,8 +108,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridurgeshv&" alt="sridurgeshv" /></p>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@sridurgeshv/30-nites-of-code)  
+  ![@sridurgeshv #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sridurgeshv)
+  
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sridurgeshv/sridurgeshv/output/snake.svg" alt="Snake animation" />
 
-###
