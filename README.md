@@ -1,8 +1,10 @@
-<h1 align="left">Hello, I'm Sri Durgesh</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&random=false&width=435&lines=HELLO%2C+My+name+is+Sri+Durgesh;I'm+22+years+old;I'm+from+India;Welcome+!!)](https://git.io/typing-svg)
 
 <div align="center">
 <img height="250" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
 </div>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sridurgeshv&label=Profile%20views&color=0e75b6&style=flat" alt="sridurgeshv" /> </p>
 
