@@ -1,11 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&random=false&width=435&lines=HELLO%2C+There!+I'm+Sri+Durgesh;I'm+22+years+old;I'm+from+India;Welcome+!!)](https://git.io/typing-svg)
-
 <div align="center">
 <img height="250" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
 </div>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sridurgeshv&label=Profile%20views&color=0e75b6&style=flat" alt="sridurgeshv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sridurgeshv" alt="sridurgeshv" /></a> </p>
@@ -106,7 +101,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sridurgeshv&show_icons=true&locale=en&layout=compact" alt="sridurgeshv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sridurgeshv&show_icons=true&locale=en" alt="sridurgeshv" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridurgeshv&" alt="sridurgeshv" /></p>
 
