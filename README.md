@@ -12,7 +12,7 @@
 <h3><a href="https://github.com/sridurgeshv" style="color: blue;">Frontend Developer | Cloud Enthusiast (AWS Certified)</a></h3>
 <p>I am an IT graduate with a keen interest in Cloud Computing and Frontend Web Development.</p>
 
-- 🔭 I am currently enrolled for learning cloud.
+- 🔭 I'm currently a Working Professional.
 - 👯 I'm seeking collaborations on straightforward cloud-based and frontend projects.
 - 📫 How to reach me: **sridurgeshv@gmail.com**
 - 😄 Pronouns: He/Him
@@ -100,10 +100,14 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sridurgeshv&show_icons=true&locale=en&layout=compact" alt="sridurgeshv" /></p>
+<br/>
 
+# 📊 GitHub Stats:
 
+<p><img align="center" src="https://streak-stats.demolab.com/?user=sridurgeshv&theme=light&hide_border=false" alt="sridurgeshv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridurgeshv&" alt="sridurgeshv" /></p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sridurgeshv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@sridurgeshv/30-nites-of-code)  
@@ -112,4 +116,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sridurgeshv/sridurgeshv/output/snake.svg" alt="Snake animation" />
-
