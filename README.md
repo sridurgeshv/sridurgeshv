@@ -1,133 +1,200 @@
 <div align="center">
 <img height="250" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
+<div style="background-color: #071525; padding: 20px; display: inline-block;">
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=90&duration=2000&pause=99999&color=4D8EFF&center=true&vCenter=true&width=700&height=160&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94" alt="안녕하세요" />
+</div>
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=SAP+CPI+%7C+AWS+Cloud+%7C+AI+Builder" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sridurgeshv&label=Visitors&color=0e75b6&style=for-the-badge)](https://github.com/sridurgeshv)
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![SAP CPI](https://img.shields.io/badge/SAP-CPI_Developer-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
+<br/>
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sridurgeshv&label=Profile%20views&color=0e75b6&style=flat" alt="sridurgeshv" />
+</div>
+
+---
+
+## `> whoami`
+
+```python
+class Sri:
+    name       = "Baba Sri Durgesh Vedangi"
+    role       = "Junior SAP PI/PO CPI Consultant"
+    certs      = ["AWS Certified Cloud Practitioner"]
+    education  = "B.Tech – Information Technology"
+    location   = "Maharashtra 🇮🇳"
+    passion    = ["Integration Architecture", "AI Assistants", "Computer Vision"]
+    currently  = "Crafting Something Interesting 🚀✨"
+    pronouns   = "He / Him"
+    fun_fact   = "I debug iFlows by day and train neural nets by night 🤖"
+
+    def greet(self):
+        return "Let's build something that matters."
+```
+
+---
+
+## `> tech --stack --animated`
+
+<!-- TECH TRAIN — scrolling continuously -->
+<div align="center">
+
+### ⚡ The Stack on Rails
+
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,aws,gcp,azure,git,linux,tensorflow,opencv,mysql,firebase&perline=15" />
+
+<br/>
+
+<!-- Animated scrolling ticker via marquee (GitHub renders it) -->
+<p>
+<picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="" />
+</picture>
 </p>
+
+</div>
+
+---
+
+## `> cat domains.txt`
+
+<div align="center">
+
+| 🔧 Domain | 🛠️ What I Actually Do |
+|---|---|
+| **SAP CPI / PI / PO** | iFlow design, Groovy scripting, DataStore patterns, Exception Subprocesses |
+| **SAP Integration** | BambooHR → SuccessFactors sync, Esker → SAP indirect procurement |
+| **AWS Cloud** | Certified practitioner — Lambda, S3, IAM, EC2 |
+| **AI & Vision** | Gesture volume control via MediaPipe + OpenCV |
+| **Frontend** | React, JavaScript, HTML/CSS — component-first thinking |
+| **DevOps** | Git workflows, Python automation, FastAPI microservices |
+
+</div>
+
+---
+
+## `> ls projects/`
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Real-Time Code Review and Collaboration
+> *Simultaneous code review. Real-time suggestions.*
+
+Built with Node.js and React. Features:
+
+- 👤 User profiles and team creation
+- ⚡ Real-time coding and commenting via WebRTC
+- 🤖 AI-powered code suggestions
+- 🎨 Modern frontend with React and Monaco Editor
+- 🔄 Robust backend with WebSocket connections
+- 🛠️ Isolated environments for focused teamwork
+
+</td>
+<td width="50%">
+
+### 🖐️ Gesture Volume Control
+> *Your hand is the remote.*
+
+Built with `MediaPipe` + `OpenCV` + `pycaw`:
+- 📐 Distance-to-volume mapping  
+- 🔇 Fist gesture = instant mute  
+- 📊 Rolling average smoothing  
+- 🎨 Color-coded HUD overlay  
+- ✋ Real-time hand landmark detection
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ DevFlow — AI-Powered CLI
+> *Git meets Gemini.*
+
+Hackathon project using Python + Click + Gemini + GitPython:
+- 🚀 Project scaffolding automation  
+- 🔍 AI Code Review mode  
+- 🧪 Testing & deployment pipeline  
+- 📦 GitHub Copilot CLI integration
+
+</td>
+<td width="50%">
+
+### 🔗 SAP BambooHR ↔ SuccessFactors Sync
+> *Production-grade middleware.*
+
+Timer-driven iFlow with:
+- 🕐 `lastRunTimestamp` via DataStore  
+- 🔀 General Splitter + 3-way Router  
+- 🚨 Exception Subprocess with email alerts  
+- 📊 Full error handling & retry logic
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat current_mission.log`
+
+```
+[2025-xx-xx 09:00:01] STATUS  → Active
+[2025-xx-xx 09:00:02] ROLE    → SAP CPI Consultant @ Day Job
+[2025-xx-xx 09:00:03] BUILD   → JARVIS v0.x — adding event bus integration
+[2025-xx-xx 09:00:04] LEARN   → LLM Observability, RAG pipelines, Prompt Engineering
+[2025-xx-xx 09:00:05] COLLAB  → Open to cloud + integration side projects
+[2025-xx-xx 09:00:06] GOAL    → Make every API talk to every other API, cleanly.
+[2025-xx-xx 09:00:07] STATUS  → Building... 🔨
+```
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=sridurgeshv&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img height="180" src="https://streak-stats.demolab.com/?user=sridurgeshv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sridurgeshv" alt="sridurgeshv" />
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sridurgeshv" alt="sridurgeshv" />
   </a>
 </p>
 
-## 🚀 About Me
+</div>
 
-<img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+---
 
-<h3><a href="https://github.com/sridurgeshv" style="color: blue;">Frontend Developer | Cloud Enthusiast (AWS Certified)</a></h3>
-<p>I am an IT graduate with a keen interest in Cloud Computing and Frontend Web Development.</p>
+## `> connect --socials`
 
-- 🔭 I'm currently a Working Professional.
-- 👯 I'm seeking collaborations on straightforward cloud-based and frontend projects.
-- 📫 How to reach me: **sridurgeshv@gmail.com**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I really love what I do!
+<div align="center">
 
-<br clear="both">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baba-sri-durgesh-vedangi-19a404260)
+[![CodePen](https://img.shields.io/badge/CodePen-Follow-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/durgeshv)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@durgeshv)
+[![Gmail](https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sridurgeshv@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/durgeshv" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="durgeshv" height="55" width="55" />
-  </a>
-  <a href="https://www.linkedin.com/in/baba-sri-durgesh-vedangi-19a404260" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="55" width="55" alt="linkedin logo" />
-  </a>
-  <a href="https://hashnode.com/@durgeshv" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@durgeshv" height="55" width="55" />
-  </a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="55" height="55"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
-  </a>
-</p>
+---
 
-<h3 align="left">AI/ML:</h3>
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="55" height="55"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55"/>
-  </a>
-</p>
+## `> ./snake.sh`
 
-<h3 align="left">DevOps:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-  </a>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/sridurgeshv/sridurgeshv/output/snake.svg" alt="Contribution Snake" />
+</div>
 
-<h3 align="left">Backend as a Service (BaaS):</h3>
-<p align="left">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="55" height="55"/>
-  </a>
-</p>
+---
 
-<h3 align="left">Other:</h3>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
-  </a>
-</p>
+## `> uptime --codedex`
 
-# 📊 GitHub Stats:
+**#30NitesOfCode Progress:**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sridurgeshv&show_icons=true&locale=en&layout=compact" alt="sridurgeshv"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=sridurgeshv&theme=light&hide_border=false" alt="sridurgeshv" />
-</p>
-
-## #30NitesOfCode:
-[Check out my progress!](https://www.codedex.io/@sridurgeshv/30-nites-of-code)  
-![@sridurgeshv #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sridurgeshv)
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sridurgeshv/sridurgeshv/output/snake.svg" alt="Snake animation" />
+[![@sridurgeshv #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sridurgeshv)](https://www.codedex.io/@sridurgeshv/30-nites-of-code)
