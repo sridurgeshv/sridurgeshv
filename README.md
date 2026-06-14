@@ -1,16 +1,12 @@
 <div align="center">
-<img height="250" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
-<div style="background-color: #071525; padding: 20px; display: inline-block;">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=90&duration=2000&pause=99999&color=4D8EFF&center=true&vCenter=true&width=700&height=160&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94" alt="안녕하세요" />
-</div>
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=SAP+CPI+%7C+AWS+Cloud+%7C+AI+Builder" alt="Typing SVG" />
+
+<img src="https://github.com/sridurgeshv/CPI-Backups/blob/main/annyeong.svg" alt="안녕하세요 — Hello in Korean" width="900"/>
+
+<br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sridurgeshv&label=Visitors&color=0e75b6&style=for-the-badge)](https://github.com/sridurgeshv)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![SAP CPI](https://img.shields.io/badge/SAP-CPI_Developer-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com)
-<br/>
-</div>
 
 </div>
 
