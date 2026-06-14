@@ -139,7 +139,7 @@ Timer-driven iFlow with:
 ```
 [2025-xx-xx 09:00:01] STATUS  → Active
 [2025-xx-xx 09:00:02] ROLE    → SAP CPI Consultant @ Day Job
-[2025-xx-xx 09:00:03] BUILD   → JARVIS v0.x — adding event bus integration
+[2025-xx-xx 09:00:03] BUILD   → AI Object
 [2025-xx-xx 09:00:04] LEARN   → LLM Observability, RAG pipelines, Prompt Engineering
 [2025-xx-xx 09:00:05] COLLAB  → Open to cloud + integration side projects
 [2025-xx-xx 09:00:06] GOAL    → Make every API talk to every other API, cleanly.
