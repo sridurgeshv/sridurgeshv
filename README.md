@@ -43,13 +43,6 @@ class Sri:
 
 <br/>
 
-<!-- Animated scrolling ticker via marquee (GitHub renders it) -->
-<p>
-<picture>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="" />
-</picture>
-</p>
-
 </div>
 
 ---
@@ -183,10 +176,12 @@ Timer-driven iFlow with:
 
 ## `> ./snake.sh`
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/sridurgeshv/sridurgeshv/output/snake.svg" alt="Contribution Snake" />
-</div>
-
+<!-- Animated scrolling ticker via marquee (GitHub renders it) -->
+<p>
+<picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="" />
+</picture>
+</p>
 ---
 
 ## `> uptime --codedex`
