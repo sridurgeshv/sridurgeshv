@@ -145,9 +145,11 @@ Timer-driven iFlow with:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=sridurgeshv&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img height="180" src="https://streak-stats.demolab.com/?user=sridurgeshv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sridurgeshv&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=sridurgeshv&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Streak" />
 
 <br/><br/>
 
