@@ -17,8 +17,8 @@
 ```python
 class Sri:
     name       = "Baba Sri Durgesh Vedangi"
-    role       = "Certified SAP PI/PO CPI Consultant"
-    certs      = ["AWS Certified Cloud Practitioner", "SAP Certified Integration Developer"]
+    role       = "SAP Integration Consultant"
+    certs      = ["SAP Certified Integration Developer", "AWS Certified Cloud Practitioner"]
     education  = "B.Tech – Information Technology"
     location   = "Maharashtra 🇮🇳"
     passion    = ["Integration Architecture", "AI Assistants", "Computer Vision"]
