@@ -17,14 +17,14 @@
 ```python
 class Sri:
     name       = "Baba Sri Durgesh Vedangi"
-    role       = "Junior SAP PI/PO CPI Consultant"
-    certs      = ["AWS Certified Cloud Practitioner"]
+    role       = "Certified SAP PI/PO CPI Consultant"
+    certs      = ["AWS Certified Cloud Practitioner", "SAP Certified Integration Developer"]
     education  = "B.Tech – Information Technology"
     location   = "Maharashtra 🇮🇳"
     passion    = ["Integration Architecture", "AI Assistants", "Computer Vision"]
     currently  = "Crafting Something Interesting 🚀✨"
     pronouns   = "He / Him"
-    fun_fact   = "I debug iFlows by day and train neural nets by night 🤖"
+    fun_fact   = "I debug iFlows by day and train mind by night 🤖"
 
     def greet(self):
         return "Let's build something that matters."
